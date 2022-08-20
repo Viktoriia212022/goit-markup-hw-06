@@ -398,6 +398,9 @@ h2 {
 
 .list-button {
   margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
 .bottons {
@@ -633,7 +636,7 @@ img {
   padding: 20px 24px;
 }
 
-.image {
+.foto {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
